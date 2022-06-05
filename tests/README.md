@@ -62,5 +62,5 @@ $
 ## Authors
 | Name | GitHub username |
 | ------ | ------ |
-| eliyas fiseha | [malu17](https://github.com/malu17) |
-| tecaddis@gmail.com | 
+| jonas desta | [Eldorado16](https://github.com/Eldorado16) |
+| jonathemercy1623@gmail.com | 
