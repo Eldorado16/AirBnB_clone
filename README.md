@@ -129,4 +129,4 @@ HBnB - version 9.6
 To all the peers that contribuited with their knowledge
 
 ### Authors :fountain_pen:
-* Sara Fedlu - @SaraFedlu
+* Yonas Desta - @Eldorado16
